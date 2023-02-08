@@ -1,16 +1,16 @@
-# cpp-network-scanner
+# cpp-port-scanner
 
 How to install it?
 ```
-git clone https://github.com/nopetoyou1111/cpp-network-scanner.git
-cd cpp-network-scanner
+git clone https://github.com/nopetoyou1111/cpp-port-scanner.git
+cd cpp-port-scanner
 ```
 
 How to run it?
 
 ```
-make network-scanner
-sudo ./network-scanner
+make port-scanner
+sudo ./port-scanner
 ```
 
 
