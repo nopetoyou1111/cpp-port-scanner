@@ -9,8 +9,8 @@ cd cpp-network-scanner
 How to run it?
 
 ```
-make cpp-network-scanner
-sudo ./cpp-network-scanner
+make network-scanner
+sudo ./network-scanner
 ```
 
 
